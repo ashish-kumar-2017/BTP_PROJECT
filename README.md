@@ -4,6 +4,12 @@ This project leverages **Reinforcement Learning (RL)** to optimize the **Transmi
 
 ---
 
+## 📸 **Network**
+<p align="center">
+  <img src="images/Picture1.png" alt="network" height ="350" width="530"/>
+  <img src="images/image2.jpeg" alt="real_life_app" width="460"/>
+</p>
+
 ## 🚀 Features
 
 - **Reinforcement Learning Framework**:
@@ -40,12 +46,6 @@ This project leverages **Reinforcement Learning (RL)** to optimize the **Transmi
   - cd BTPPROJECT
   - pip install -r requirements.txt
 ---
-
-## 📸 **Network**
-<p align="center">
-  <img src="images/Picture1.png" alt="network" height ="350" width="530"/>
-  <img src="images/image2.jpeg" alt="real_life_app" width="460"/>
-</p>
 
 ## 📊 Results
 - Highlights
