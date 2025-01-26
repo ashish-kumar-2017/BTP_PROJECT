@@ -41,7 +41,7 @@ This project leverages **Reinforcement Learning (RL)** to optimize the **Transmi
   - pip install -r requirements.txt
 ---
 
-## 📸 **Preview-Two Examples**
+## 📸 **Networks**
 <p align="center">
   <img src="images/picture1.png" alt="network" width="530"/>
   <img src="images/image2.jpeg" alt="real_life_app" width="460"/>
