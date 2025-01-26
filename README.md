@@ -43,7 +43,7 @@ This project leverages **Reinforcement Learning (RL)** to optimize the **Transmi
 
 ## 📸 **Networks**
 <p align="center">
-  <img src="images/Picture1.png" alt="network" width="530"/>
+  <img src="images/Picture1.png" alt="network" hight ="450" width="530"/>
   <img src="images/image2.jpeg" alt="real_life_app" width="460"/>
 </p>
 
